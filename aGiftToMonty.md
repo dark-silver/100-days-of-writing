@@ -9,4 +9,6 @@ I hope you find something you like :)
 - **Chori Chori - Panchhi Banoo Udti Phiroon** [*link*](https://youtu.be/8GQ2QXul-Po) {Hindi}
 - **Ustad Bahauddin Dagar - Raag Kausi Kanada** [*link*](https://youtu.be/LdF8n5uRMZk) {Hindustani Classical}
 
-!(DALL-E_generated_swirly_monster.jpg)
+<picture>
+ <img alt="swirly_monster" src="DALL-E_generated_swirly_monster.jpg" width="256" height="256">
+</picture>
